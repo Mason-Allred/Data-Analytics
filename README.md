@@ -1,6 +1,6 @@
 # Information Systems Project Showcase
 
-This repository highlights academic projects that demonstrate core competencies in data analysis, machine learning, interactive tools, and natural language processing
+This repository highlights academic projects that demonstrate core competencies in data analysis, machine learning, interactive tools, and natural language processing.
 
 ## Projects
 
